@@ -1,6 +1,6 @@
 {
   "name": "dargs-fork",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Patch for the [dargs][] package, that adds support for single flags. Convert an object of options into an array of command-line arguments.",
   "repository": "tunnckoCore/dargs-fork",
   "author": "Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
