@@ -33,10 +33,31 @@
     "standard-version": "^3.0.0"
   },
   "files": [
-    "index.js",
-    "utils.js"
+    "index.js"
   ],
-  "keywords": [],
+  "keywords": [
+    "reverse",
+    "minimist",
+    "options",
+    "arguments",
+    "args",
+    "flags",
+    "cli",
+    "nopt",
+    "commander",
+    "bin",
+    "binary",
+    "command",
+    "cmd",
+    "inverse",
+    "opposite",
+    "invert",
+    "switch",
+    "construct",
+    "parse",
+    "parser",
+    "argv"
+  ],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
